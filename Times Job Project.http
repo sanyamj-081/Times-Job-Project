@@ -1,0 +1,6 @@
+@Times_Job_Project_HostAddress = http://localhost:5044
+
+GET {{Times_Job_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
